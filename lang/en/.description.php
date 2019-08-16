@@ -1,0 +1,5 @@
+<?
+$MESS["RMP_LAYOUT_COMP_NAME"] = "IP";
+$MESS["RMP_LAYOUT_COMP_DESCR"] = "IP";
+$MESS["RMP_PATH_B24MP_DESCR"] = "Bitrix24 marketplace";
+?>
