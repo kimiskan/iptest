@@ -17,6 +17,7 @@ if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true)
 $arResult['ID_FORM'] = $arParams['ID_FORM'];
 
 $this -> IncludeComponentTemplate();
+
 $APPLICATION->AddHeadScript($this->__path . '/templates/' . $this->arParams['COMPONENT_TEMPLATE'] . '/libs/parsley/parsley.js');
 
 
